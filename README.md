@@ -20,6 +20,17 @@ Building under **Crous Labs**: websites, small games, AI tools, and hardware ide
 - A multiplayer party game you play with your phone
 - Original co-op game concepts: Ghost Frequency, Salt Line, and The Hush
 
+
+### Private builds (not public yet)
+
+- **Chief**: my local AI command centre and business assistant
+- **Chief Studio**: a multi-user personal-assistant app (database, logins, tests)
+- **Aegis**: an offline-first field app for airsoft and outdoors (PWA)
+- **ThreadLab**: a 3D clothing-design studio with mockups and export
+- **Movie Night**: a family film-picker with voting and a big-screen mode
+
+
+
 ## Skills
 
 `HTML` `CSS` `JavaScript` `React` `Vite` `Node.js` `Next.js` `TypeScript` `Tailwind CSS` `GitHub Pages`
